@@ -1,7 +1,10 @@
 1. 
-git init
 .gitignore file
+git init
 
 create repo 
 git add 
 git commit
+
+2. 
+
