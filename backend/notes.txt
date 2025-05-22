@@ -1,0 +1,7 @@
+1. 
+git init
+.gitignore file
+
+create repo 
+git add 
+git commit
